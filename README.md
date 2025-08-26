@@ -2,7 +2,8 @@
 
 Supports Windows as of right now.
 
-#Example of how it looks
+# Example of how it looks
+
 <img width="297" height="423" alt="image" src="https://github.com/user-attachments/assets/71e0e35b-6e5d-4afe-b5e6-0f825b201a78" />
 
 
