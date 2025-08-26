@@ -18,6 +18,7 @@ VLC instructions are included in the release files.
 # To-Do:
 - Create Linux launcher
 - Create automatic installer for python requirements
-- automatic updater
+- Automatic updater
+- Make it automaticly run in the system tray entireley
 
   
