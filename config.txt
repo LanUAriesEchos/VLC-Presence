@@ -1,0 +1,11 @@
+[discord]
+client_id = 1409563908251062282
+large_image = vlcimage
+large_text = VLC Media Player
+
+[vlc]
+password = vlcpass
+url = http://localhost:8080/requests/status.json
+
+[settings]
+update_interval = 15
